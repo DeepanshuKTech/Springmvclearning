@@ -1,1 +1,7 @@
 Dispatcher Servlet/Front COntroller -> Handler Mapping -> Controller -> View
+POJO stands for "Plain Old Java Object." It is a term used in Java development to describe a simple and ordinary Java object, which typically adheres to certain conventions to keep it straightforward and easy to understand. POJOs are often used in contrast to complex, framework-dependent, or technology-specific objects.
+Characteristics of a POJO:
+Plainness: POJOs are plain Java objects without any dependency on specific frameworks or technologies. 
+Simplicity: POJOs are simple and focus on encapsulating data and behavior. 
+Independence: POJOs are independent of the environment or container in which they are used. 
+Serializable: POJOs often implement the Serializable interface, allowing instances to be serialized and deserialized.
